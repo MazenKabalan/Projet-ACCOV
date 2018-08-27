@@ -43,7 +43,7 @@ Classe 	|Description
 *Simulation*|Classe qui simule la mutation des caméléons, contient la fonction main du projet
 
 
-## Parametres Globales 
+## Paramètres Globales 
 Modifier|Type|Field|Description
 ---     |--- |---  |---
 static|boolean 	 |*Simulation.AfficherTravailcaméléon*|Affiche le comportement des caméléons sur le system.out et sur l'interface graphique, *N.B.: l'interface graphique peut afficher seulement au plus les comportements de 9 caméléons, en tant que pour le System.out, pas de limite sur le nombre des caméléons*
@@ -69,7 +69,7 @@ Classe 	|Description
 *Simulation*|Classe qui simule la mutation des caméléons, contient la fonction main du projet
 
 
-## Parametres Globales 
+## Paramètres Globales 
 Modifier|Type|Field|Description
 ---     |--- |---  |---
 static|boolean 	 |*Simulation.AfficherTravailcaméléon*|Affiche le comportement des caméléons sur le system.out et sur l'interface graphique, *N.B.: l'interface graphique peut afficher seulement au plus les comportements de 9 caméléons, en tant que pour le System.out, pas de limite sur le nombre des caméléons*
