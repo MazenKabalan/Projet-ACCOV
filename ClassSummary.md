@@ -10,8 +10,8 @@ Classe 	|Description
 
 
 # Parametres Globales 
-Modifier and Type|Field and Description
----              |---
-static boolean 	 |*Simulation.AfficherTravailCameleon*: affiche le comportement des cameleons sur le system.out et sur l'interface graphique
-static int 	     |*Simulation.fontSize*: definit la taille du fonte utilisee sur l'interface graphique
-static long 	   |*Simulation.timeOutInSeconds*: definit le retard entre les fontions d'un cameleon (en secondes)
+Modifier|Type|Field|Description
+---     |--- |---  |---
+static|boolean 	 |*Simulation.AfficherTravailCameleon*|Affiche le comportement des cameleons sur le system.out et sur l'interface graphique
+static|int 	     |*Simulation.fontSize*|Definit la taille du fonte utilisee sur l'interface graphique
+static|long 	   |*Simulation.timeOutInSeconds*|Definit le retard entre les fontions d'un cameleon (en secondes)
