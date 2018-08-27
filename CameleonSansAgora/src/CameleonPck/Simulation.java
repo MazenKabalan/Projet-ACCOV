@@ -29,10 +29,10 @@ public class Simulation{
     public static final boolean AfficherTravailCameleon = true;
 
     /**
-     * definit le retard entre les fontions d'un cameleon (en secondes)
+     * definit le retard entre les fonctions d'un cameleon (en secondes)
      * 
      */
-    public static final long timeOutInSeconds = (long) 0;
+    public static final long timeOutInSeconds = (long) 1;
 
     /**
      * definit la taille du fonte utilisee su l'interface graphique
