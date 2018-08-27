@@ -1,10 +1,11 @@
 # Première Solution : Mutation Avec Agora
   Dans cette solution:
-  - les cameleons sont des threads
-  - Les demandes de mutation sont envoyées a l'agora 
-  - Un agora est le lieu de rencontre des cameleons
-  - La synchronization entre les differentes demandes de mutation des cameleons se fait au niveau de l'agora
-  - La methode "monitoring" est utilisee dans la synchronization
+  - les cameleons sont des threads.
+  - Les demandes de mutation sont envoyées a l'agora. 
+  - Un agora est le lieu de rencontre des cameleons.
+  - La synchronization entre les differentes demandes de mutation des cameleons se fait au niveau de l'agora.
+  - La methode "monitoring" est utilisee dans la synchronization.
+  - La simulation se fait sur neuf (9) cameleons.
 
 ## Résumé de classes 
 
