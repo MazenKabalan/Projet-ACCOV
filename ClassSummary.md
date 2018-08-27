@@ -1,4 +1,12 @@
-# Résumé de classes 
+# Première Solution : Mutation Avec Agora
+  Dans cette solution:
+  - les cameleons sont des threads
+  - Les demandes de mutation sont envoyées a l'agora 
+  - Un agora est le lieu de rencontre des cameleons
+  - La synchronization entre les differentes demandes de mutation des cameleons se fait au niveau de l'agora
+  - La methode "monitoring" est utilisee dans la synchronization
+
+## Résumé de classes 
 
 Classe 	|Description
 ---     |---
@@ -9,9 +17,9 @@ Classe 	|Description
 *Simulation*|Classe qui simule la mutation des cameleons, contient la fonction main du projet
 
 
-# Parametres Globales 
+## Parametres Globales 
 Modifier|Type|Field|Description
 ---     |--- |---  |---
-static|boolean 	 |*Simulation.AfficherTravailCameleon*|Affiche le comportement des cameleons sur le system.out et sur l'interface graphique
+static|boolean 	 |*Simulation.AfficherTravailCameleon*|Affiche le comportement des cameleons sur le system.out et sur l'interface graphique, *N.B.: l'interface graphique peut afficher seulement au plus les comportements de 9 cameleons, en tant que pour le System.out, pas de limite sur le nombre des cameleons*
 static|int 	     |*Simulation.fontSize*|Definit la taille du fonte utilisee sur l'interface graphique
 static|long 	   |*Simulation.timeOutInSeconds*|Definit le retard entre les fontions d'un cameleon (en secondes)
